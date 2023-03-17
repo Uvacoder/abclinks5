@@ -1,7 +1,7 @@
 export const socialLinks = {
   twitter: {
     username: '_mrLuisFer',
-    url: 'https://twitter.com/_mrLuisFer',
+    url: 'https://twitter.com/VaLandscapes',
     description: {
       'en': 'Student & Frontend Developer',
       'es': 'Estudiante & Frontend Developer',
@@ -16,18 +16,18 @@ export const socialLinks = {
     }
   },
   linkedin: {
-    username: 'Luis Alvarez',
-    url: 'https://www.linkedin.com/in/mrluisfer/',
+    username: 'Alec Campbell',
+    url: 'https://www.linkedin.com/in/alecbcampbell/',
     description: 'Frontend Developer | React & NodeJs'
   },
   reddit: {
-    username: 'mrLuisFer',
-    url: 'https://www.reddit.com/user/mrLuisFer',
+    username: 'doc22940',
+    url: 'https://www.reddit.com/user/doc22940',
     description: ''
   },
   github: {
-    username: 'mrLuisFer',
-    url: 'https://github.com/mrLuisFer',
+    username: 'uvacoder',
+    url: 'https://github.com/uvacoder',
     description: {
       'en': 'Frontend Developer | 🪐 Web ⚡ JavaScript 💙 TypeScript | Learning cute things every day 🐙',
       'es': 'Frontend Developer | 🪐 Web ⚡ JavaScript 💙 TypeScript | Aprendiendo cosas lindas todos los días. 🐙',
@@ -40,7 +40,7 @@ export const socialLinks = {
   },
   portfolio: {
     username: 'My Portfolio',
-    url: 'https://mrluisfer.netlify.app/',
+    url: 'https://uvacoder.vercel.app/',
     description: {
       'en': 'Frontend Developer, specialized in Javascript & React for UI',
       'es': 'Frontend Developer, especializado en Javascript & React para la UI',
