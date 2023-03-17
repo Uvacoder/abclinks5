@@ -8,20 +8,20 @@ interface IQuickContactFooterItem extends Omit<IQuickContactItem, 'icon'> {
 const footerItems: IQuickContactFooterItem[] = [
   {
     label: 'GitHub',
-    link: 'https://github.com/mrLuisFer'
+    link: 'https://github.com/uvacoder'
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/mrluisfer/'
+    link: 'https://www.linkedin.com/in/alecbcampbell/'
   },
   {
     label: 'Explore',
-    link: 'https://mrluisfer.vercel.app/projects',
+    link: 'https://uvacoder.vercel.app/projects',
     isDisable: true
   },
   {
     label: 'GitHub Gist',
-    link: 'https://gist.github.com/mrLuisFer'
+    link: 'https://gist.github.com/uvacoder'
   }
 ]
 
