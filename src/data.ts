@@ -9,10 +9,10 @@ const data: ICardData[] = [
   {
     id: generateId(),
     type: 'twitter',
-    url: 'https://twitter.com/_mrLuisFer',
+    url: 'https://twitter.com/VaLandscapes',
     title: 'Twitter',
     thumbnail: '/assets/thumbnails/twitter.png',
-    customUrl: 'twitter.com/_mrLuisFer',
+    customUrl: 'twitter.com/VaLandscapes',
     className: 'bg-[rgba(0,172,238,0.2)] dark:text-white',
     iconImg: '/assets/cards/twitterIcon.svg',
     urlBaseDomain: 'twitter.com',
@@ -37,21 +37,21 @@ const data: ICardData[] = [
   {
     id: generateId(),
     type: 'linkedin',
-    url: 'https://www.linkedin.com/in/mrluisfer/',
+    url: 'https://www.linkedin.com/in/alecbcampbell/',
     title: 'LinkedIn',
     thumbnail: '/assets/thumbnails/linkedin.avif',
     description: 'Image by Grabriel Varaljay',
     className: 'bg-blue-100',
     iconImg: '/assets/cards/linkedinIcon.svg',
-    urlBaseDomain: 'linkedIn.com/mrluisfer'
+    urlBaseDomain: 'linkedIn.com/alecbcampbell'
   },
   {
     id: generateId(),
     type: 'github',
-    url: 'https://github.com/mrLuisFer',
+    url: 'https://github.com/uvacoder',
     title: 'GitHub',
     thumbnail: '/assets/thumbnails/github.png',
-    customUrl: 'github.com/mrLuisFer',
+    customUrl: 'github.com/uvacoder',
     description: '71 public repositories',
     className:
       'bg-[rgba(0,0,0,0.20)] hover:bg-[rgba(0,0,0,0.1)] transition dark:text-white',
@@ -79,7 +79,7 @@ const data: ICardData[] = [
   {
     id: generateId(),
     type: 'dribbble',
-    url: 'https://dribbble.com/mrLuisfer',
+    url: 'https://dribbble.com/uvacoder',
     title: 'Dribbble',
     thumbnail: '/assets/thumbnails/dribbble.jpg',
     description: 'Image by Med Badr Chemmaoui ',
@@ -90,17 +90,17 @@ const data: ICardData[] = [
   {
     id: generateId(),
     type: 'twitch',
-    url: 'https://www.twitch.tv/mrluisfer',
+    url: 'https://www.twitch.tv/uvacoder',
     title: 'Twitch',
     thumbnail: '/assets/thumbnails/twitch.png',
-    customUrl: 'twitch.tv/mrluisfer',
+    customUrl: 'twitch.tv/uvacoder',
     iconImg: '/assets/cards/twitchIcon.svg',
     className: 'bg-purple-200'
   },
   {
     id: generateId(),
     type: 'portfolio',
-    url: 'https://mrluisfer.vercel.app/',
+    url: 'https://uvacoder.vercel.app/',
     title: 'Professional Portfolio',
     iconImg: '/assets/cards/portfolioIcon.svg',
     className: 'bg-cyan-50',
@@ -117,7 +117,7 @@ const data: ICardData[] = [
   {
     id: generateId(),
     type: 'devto',
-    url: 'https://dev.to/mrluisfer',
+    url: 'https://dev.to/uvacoder',
     title: 'Dev.to Posts',
     iconImg: '/assets/cards/devtoIcon.svg',
     className: 'bg-gray-800 text-white',
