@@ -83,7 +83,7 @@ const data: ICardData[] = [
     title: 'Dribbble',
     thumbnail: '/assets/thumbnails/dribbble.jpg',
     description: 'Image by Med Badr Chemmaoui ',
-    customUrl: 'dribbble.com/mrLuisfer',
+    customUrl: 'dribbble.com/uvacoder',
     className: 'bg-[rgba(234,76,137,0.20)] dark:text-white',
     iconImg: '/assets/cards/dribbleIcon.svg'
   },
