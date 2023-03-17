@@ -8,7 +8,7 @@ export default function Home(): JSX.Element {
   return (
     <>
       <Head>
-        <title>Linktry - mrLuisFer</title>
+        <title>Linktry - uvacoder</title>
         <meta
           name='description'
           content='Linktree created using create-react-app'
