@@ -15,13 +15,13 @@ export interface IQuickContactItem {
 const quickContactItems: IQuickContactItem[] = [
   {
     icon: <HiOutlineMail />,
-    link: 'mailto:mrluisfeer@gmail.com',
-    label: 'mrluisfeer@gmail.com'
+    link: 'mailto:uvacoder@proton.me',
+    label: 'uvacoder@proton.me'
   },
   {
     icon: <TbBrandGithub />,
-    link: 'https://github.com/mrLuisFer',
-    label: 'github/mrluisfer'
+    link: 'https://github.com/uvacoder',
+    label: 'github/uvacoder'
   }
 ]
 
@@ -58,7 +58,7 @@ export default function AvatarSidebar(): JSX.Element {
           className='flex flex-col justify-start gap-4'
         >
           <h1 className='font-bold text-4xl border-b-2 border-transparent hover:border-gray-800 dark:hover:border-gray-300 transition w-fit'>
-            mrLuisFer
+            uvacoder
           </h1>
           <p className='font-normal opacity-80 hover:opacity-100 transition w-[350px]'>
             {"I'm"} a <b>Frontend Developer</b> specialized in <b>JavaScript</b>{' '}
